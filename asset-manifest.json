@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sporty/static/css/main.073c9b0a.css",
+    "main.js": "/Sporty/static/js/main.b13c41a7.js",
+    "static/js/787.a6a8e27a.chunk.js": "/Sporty/static/js/787.a6a8e27a.chunk.js",
+    "index.html": "/Sporty/index.html",
+    "main.073c9b0a.css.map": "/Sporty/static/css/main.073c9b0a.css.map",
+    "main.b13c41a7.js.map": "/Sporty/static/js/main.b13c41a7.js.map",
+    "787.a6a8e27a.chunk.js.map": "/Sporty/static/js/787.a6a8e27a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b13c41a7.js"
+  ]
+}
